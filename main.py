@@ -9,7 +9,7 @@ from playwright.sync_api import sync_playwright
 # ⚠️ কনফিগারেশন 
 # ==========================================
 MY_WEBSITE_URL = os.environ.get('MY_WEBSITE_URL', 'https://yourdomain.com') 
-SCRAPER_TOKEN = os.environ.get('SCRAPER_TOKEN', 'panenx24') # এখানে panenx24 সেট করা হলো
+SCRAPER_TOKEN = os.environ.get('SCRAPER_TOKEN', 'panelx24') # এখানে panenx24 সেট করা হলো
 CHECK_INTERVAL = 4 
 
 # ==========================================
